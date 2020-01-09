@@ -1,0 +1,11 @@
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Ankita.exe
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Ankita.deps.json
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Ankita.runtimeconfig.json
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Ankita.runtimeconfig.dev.json
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Ankita.dll
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Ankita.pdb
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Ankita.csprojAssemblyReference.cache
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Ankita.AssemblyInfoInputs.cache
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Ankita.AssemblyInfo.cs
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Ankita.dll
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Ankita.pdb

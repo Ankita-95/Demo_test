@@ -1,0 +1,11 @@
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\ankig\Desktop\Assignment\FirstApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

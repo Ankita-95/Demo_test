@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ankig\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ankig\\.nuget\\packages"
+    ]
+  }
+}
